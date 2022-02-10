@@ -1,0 +1,2125 @@
+# Translation of Plugins - Woody code snippets &#8211; Insert Header Footer Code, AdSense Ads - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Woody code snippets &#8211; Insert Header Footer Code, AdSense Ads - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-13 04:18:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Woody code snippets &#8211; Insert Header Footer Code, AdSense Ads - Development (trunk)\n"
+
+#: admin/boot.php:153 insert_php.php:84
+msgid "Woody Code Snippets"
+msgstr "Woody Code Snippets"
+
+#. Author of the plugin
+msgid "Creative Motion, Will Bontrager Software, LLC <will@willmaster.com>"
+msgstr "Creative Motion, Will Bontrager Software, LLC <will@willmaster.com>"
+
+#: includes/class.helpers.php:434
+msgid "Add Facebook Pixel to the Order success page."
+msgstr "Añade el píxel de Facebook a la página de pedido correcto."
+
+#: includes/class.helpers.php:429
+msgid "Add Facebook Pixel to the Order success page"
+msgstr "Añadir el píxel de Facebook a la página de pedido correcto"
+
+#: includes/class.insertion.locations.php:202
+msgid "Snippet will be placed after a product excerpt"
+msgstr "El fragmento se colocará después de un extracto del producto"
+
+#: includes/class.insertion.locations.php:201
+msgid "After a product excerpt"
+msgstr "Después de un extracto del producto"
+
+#: includes/class.insertion.locations.php:194
+msgid "Snippet will be placed after a product price"
+msgstr "El fragmento de código se colocará después del precio del producto"
+
+#: includes/class.insertion.locations.php:193
+msgid "After a product price"
+msgstr "Después del precio del producto"
+
+#: includes/class.insertion.locations.php:186
+msgid "Snippet will be placed after a product title"
+msgstr "El fragmento de código se colocará después del título del producto"
+
+#: includes/class.insertion.locations.php:185
+msgid "After a product title"
+msgstr "Después del título del producto"
+
+#: includes/class.insertion.locations.php:178
+msgid "Snippet will be placed after a single product summary"
+msgstr "El fragmento de código se colocará después de un resumen del producto individual"
+
+#: includes/class.insertion.locations.php:177
+msgid "After a single product summary"
+msgstr "Después de un resumen del producto individual"
+
+#: includes/class.insertion.locations.php:170
+msgid "Snippet will be placed before a single product summary"
+msgstr "El fragmento de código se colocará antes de un resumen del producto individual"
+
+#: includes/class.insertion.locations.php:169
+msgid "Before a single product summary"
+msgstr "Antes de un resumen del producto individual"
+
+#: includes/class.insertion.locations.php:162
+msgid "Snippet will be placed after a single product"
+msgstr "El fragmento de código se colocará después de un producto individual"
+
+#: includes/class.insertion.locations.php:161
+msgid "After a single product"
+msgstr "Después de un producto individual"
+
+#: includes/class.insertion.locations.php:154
+msgid "Snippet will be placed before a single product"
+msgstr "El fragmento de código se colocará antes de un producto individual"
+
+#: includes/class.insertion.locations.php:153
+msgid "Before a single product"
+msgstr "Antes de un producto individual"
+
+#: includes/class.insertion.locations.php:146
+msgid "Snippet will be placed after the list of products."
+msgstr "El fragmento de código se colocará después de la lista de productos."
+
+#: includes/class.insertion.locations.php:145
+msgid "After the list of products"
+msgstr "Después de la lista de productos"
+
+#: includes/class.insertion.locations.php:138
+msgid "Snippet will be placed before the list of products."
+msgstr "El fragmento de código se colocará antes de la lista de productos."
+
+#: includes/class.insertion.locations.php:137
+msgid "Before the list of products"
+msgstr "Antes de la lista de productos"
+
+#: admin/ajax/ajax.php:242
+msgid "Products Tag page"
+msgstr "Página de etiqueta de productos"
+
+#: admin/ajax/ajax.php:237
+msgid "Products Category page"
+msgstr "Página de categoría de productos"
+
+#: admin/ajax/ajax.php:232
+msgid "All Products page"
+msgstr "Página de todos los productos"
+
+#: admin/ajax/ajax.php:227
+msgid "Checkout pay page"
+msgstr "Página de finalizar el pago"
+
+#: admin/ajax/ajax.php:222
+msgid "Checkout page"
+msgstr "Página de finalizar la compra"
+
+#: admin/ajax/ajax.php:217
+msgid "Cart page"
+msgstr "Página del carrito"
+
+#: admin/ajax/ajax.php:212
+msgid "Product"
+msgstr "Producto"
+
+#: admin/ajax/ajax.php:199
+msgid "Pages"
+msgstr "Páginas"
+
+#: admin/ajax/ajax.php:181
+msgid "Posts"
+msgstr "Entradas"
+
+#: admin/ajax/ajax.php:155
+msgid "Special Pages"
+msgstr "Páginas especiales"
+
+#: admin/ajax/ajax.php:141
+msgid "Basic"
+msgstr "Básico"
+
+#: admin/ajax/ajax.php:137
+msgid "(not active)"
+msgstr "(no activo)"
+
+#: admin/metaboxes/base-options.php:651
+msgid "Custom"
+msgstr "Personalizado"
+
+#: admin/ajax/ajax.php:209 admin/metaboxes/base-options.php:642
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: libs/factory/core/includes/components/class-install-component-button.php:429
+msgid "Read more"
+msgstr "Leer más"
+
+#: libs/factory/core/includes/components/class-install-component-button.php:428
+msgid "Preparation..."
+msgstr "Preparación..."
+
+#: libs/factory/core/includes/components/class-install-component-button.php:427
+msgid "Please wait..."
+msgstr "Por favor, espera..."
+
+#: libs/factory/core/includes/components/class-install-component-button.php:424
+msgid "Install"
+msgstr "Instalar"
+
+#: libs/factory/core/ajax/install-addons.php:199
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "No se ha podido conectar al sistema de archivos. Por favor, confirma tus credenciales."
+
+#: libs/factory/core/ajax/install-addons.php:154
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Lo siento, no tienes permisos para instalar plugins en este sitio."
+
+#: libs/factory/core/ajax/install-addons.php:144
+msgid "No plugin specified."
+msgstr "No se ha especificado ningún plugin."
+
+#: libs/factory/core/ajax/install-addons.php:116
+msgid "Required attribute [component_name] is empty."
+msgstr "Está vacío el atributo necesario `[component_name]`."
+
+#: libs/factory/core/ajax/install-addons.php:97
+msgid "An unknown error occurred during the activation of the component."
+msgstr "Ha ocurrido un error desconocido durante la activación del componente."
+
+#: libs/factory/core/ajax/install-addons.php:47
+msgid "You are trying to perform an invalid action."
+msgstr "Estás intentando realizar una acción no válida."
+
+#: libs/factory/core/ajax/install-addons.php:31
+msgid "Required attributes are not passed or empty."
+msgstr "No se han pasado los atributos necesarios o están vacíos."
+
+#: libs/factory/core/ajax/install-addons.php:27
+msgid "Something went wrong."
+msgstr "Algo ha ido mal."
+
+#. Author URI of the plugin
+msgid "http://cm-wp.com"
+msgstr "https://cm-wp.com"
+
+#. Plugin URI of the plugin
+msgid "https://woodysnippet.com/"
+msgstr "https://woodysnippet.com/"
+
+#: admin/pages/settings.php:92
+msgid "Execute shortcodes in the snippet code before executing the snippet."
+msgstr "Ejecutar shortcodes en el fragmento de código antes de su ejecución."
+
+#: admin/pages/settings.php:90
+msgid "Execute shortcodes in snippets"
+msgstr "Ejecutar shortcodes en fragmentos de código.    "
+
+#: admin/metaboxes/base-options.php:736
+msgid "Select the WPML language/languages that this snippet will work for."
+msgstr "Selecciona el idioma o idiomas con los que WPML trabajará en este fragmento de código    "
+
+#: admin/metaboxes/base-options.php:734
+msgid "WPML Language"
+msgstr "Idioma de WPML.     "
+
+#: admin/metaboxes/view-options.php:157
+msgid "Taxonomy of the page"
+msgstr "Taxonomía de  la página"
+
+#: admin/metaboxes/view-options.php:153
+msgid "A taxonomy page."
+msgstr "Una taxonomía de página   "
+
+#: admin/metaboxes/view-options.php:147
+msgid "Taxonomy page"
+msgstr "Página de taxonomía    "
+
+#: admin/metaboxes/base-options.php:524
+msgid "Where use:"
+msgstr "Dónde usarlo:       "
+
+#: admin/metaboxes/base-options.php:520
+msgid "Shortcode:"
+msgstr "Shortcode:   "
+
+#: admin/includes/class.snippets.viewtable.php:264
+msgid "Snippet status not changed. No snippet ID"
+msgstr "Estado de fragmento de código sin cambios. Sin id de fragmento de código."
+
+#: admin/includes/class.snippets.viewtable.php:257
+msgid "Snippet status not changed."
+msgstr "Estado del fragmento sin cambios   "
+
+#: admin/includes/class.snippets.viewtable.php:253
+msgid "Snippet status changed"
+msgstr "El estado del fragmento ha cambiado   "
+
+#: admin/includes/class.snippets.viewtable.php:242
+msgid "The snippet is not activated because errors were detected in the snippet code!"
+msgstr "No se ha activado el fragmento porque se han detectado errores en el código   "
+
+#: admin/includes/class.snippets.viewtable.php:212
+msgid "Priority is not changed!"
+msgstr "¡La prioridad no ha cambiado!   "
+
+#: admin/includes/class.snippets.viewtable.php:206
+msgid "Priority is not changed! It's must be a number"
+msgstr "¡La prioridad no ha cambiado! Tiene que ser un número   "
+
+#: admin/includes/class.snippets.viewtable.php:202
+msgid "Priority successfully changed"
+msgstr "La prioridad ha sido correctamente cambiada"
+
+#: admin/includes/class.snippets.viewtable.php:194
+#: admin/includes/class.snippets.viewtable.php:224
+#: libs/factory/core/ajax/install-addons.php:27
+#: libs/factory/core/ajax/install-addons.php:112
+msgid "You don't have enough capability to edit this information."
+msgstr "No tienes capacidades suficientes para editar esta información.              "
+
+#: admin/includes/class.snippets.viewtable.php:21
+msgid "Priority"
+msgstr "Prioridad"
+
+#: admin/includes/class.common.snippet.php:166
+msgid "Edit advertisement snippet"
+msgstr "Editar fragmento de publicidad    "
+
+#: admin/includes/class.filter.snippet.php:63
+msgid "Filter by type:"
+msgstr "Filtrar por tipo:"
+
+#: admin/pages/new-item.php:86
+msgid "Used for inserting Advertisement. Can be used for inserting quotes, paragraphs, shortcodes from other plugins, tables, media files."
+msgstr "Se utiliza para insertar publicidad. Se puede utilizar para insertar citas, párrafos, shortcodes de otros plugins, tablas, archivos de medios."
+
+#: admin/includes/class.common.snippet.php:99
+#: admin/includes/class.common.snippet.php:157 admin/pages/new-item.php:84
+msgid "Advertisement snippet"
+msgstr "Fragmento de publicidad    "
+
+#: libs/factory/feedback/views/deactivate-form.php:83
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: libs/factory/feedback/views/deactivate-form.php:82
+msgid "Skip & Deactivate"
+msgstr "Saltar y desactivar"
+
+#: libs/factory/feedback/views/deactivate-form.php:80
+msgid "Anonymous feedback"
+msgstr "Comentario anónimo    "
+
+#: libs/factory/feedback/views/deactivate-form.php:75
+msgid "We will receive the following information from you: site address, php version, Wordpress version, version of our plugin, this will help us better understand the causes of the problem. If you don't want to send this data, click the \"Anonymous\" checkbox."
+msgstr "Recibiremos de ti la siguiente información: la dirección del sitio, la versión de PHP, la versión de WordPress y la versión de nuestro plugin, lo que nos ayudará a comprender mejor las causas del problema. Si no quieres enviar estos datos, haz clic en la casilla de verificación «Anónimo»."
+
+#: libs/factory/feedback/views/deactivate-form.php:70
+msgid "Other"
+msgstr "Otro"
+
+#: libs/factory/feedback/views/deactivate-form.php:61
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Desactivación temporal. Estamos solucionando un problema."
+
+#: libs/factory/feedback/views/deactivate-form.php:52
+msgid "The plugin broke my site"
+msgstr "El plugin ha roto mi sitio."
+
+#: libs/factory/feedback/views/deactivate-form.php:43
+msgid "I no longer need the plugin"
+msgstr "Ya no necesito el plugin.    "
+
+#: libs/factory/feedback/views/deactivate-form.php:34
+msgid "I only needed the plugin for a short period"
+msgstr "Solo necesito el plugin para poco tiempo"
+
+#: libs/factory/feedback/views/deactivate-form.php:25
+msgid "The plugin suddenly stopped working"
+msgstr "El plugin de repente dejó de funcionar."
+
+#: libs/factory/feedback/views/deactivate-form.php:16
+msgid "I found a better plugin"
+msgstr "He encontrado un plugin mejor."
+
+#: libs/factory/feedback/views/deactivate-form.php:8
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Si tienes un momento, por favor dinos por qué lo desactivas.   "
+
+#: libs/factory/feedback/views/deactivate-form.php:4
+msgid "Quick Feedback"
+msgstr "Comentario rápido   "
+
+#: admin/includes/class.snippets.table.php:343
+msgid "View the video"
+msgstr "Ver el vídeo   "
+
+#: admin/includes/class.snippets.table.php:209
+msgid "Preview"
+msgstr "Vista previa"
+
+#: admin/pages/settings.php:220
+msgid "Sorry, you are not allowed to save settings as this user."
+msgstr "Lo siento, no tienes permisos para cambiar los ajustes."
+
+#: admin/includes/class.notices.php:124
+msgid "If you still want to use the old shortcodes [insert_php] and you don’t have time to upgrade to the new version, you can enable support for old shortcodes in the plugin <a href=\"%s\">settings</a>."
+msgstr "Si todavía quieres los viejos shortcodes [insert_php] y no tienes tiempo para actualizar a la nueva versión puedes activar la compatibilidad con los viejos shortcodes en los <a href=\"%s\">ajustes</a> del plugin."
+
+#: admin/includes/class.import.snippet.php:43 admin/pages/settings.php:220
+msgid "You need a higher level of permission."
+msgstr "Se necesita un nivel de permisos superiores"
+
+#: admin/includes/class.import.snippet.php:43
+msgid "Sorry, you are not allowed to import snippets as this user."
+msgstr "Lo sentimos, no te está permitido importar fragmentos"
+
+#: admin/boot.php:28
+msgid "Enable safe mode in Woody Code Snippets"
+msgstr "Activar el modo seguro en Woody Code Snippets"
+
+#: admin/boot.php:27
+msgid "If you see this message after saving the snippet to the Woody Code Snippets plugin, please enable safe mode in the Woody plugin. Safe mode will allow you to continue working in the admin panel of your site and change the snippet in which you made a php error."
+msgstr "Si ves este mensaje después de guardar el fragmento de código en el plugin Woody Code Snippets, por favor, activa el modo seguro en el plugin de Woody. El modo seguro te permitirá continuar trabajando en el panel de administración de tu sitio y cambiar el fragmento de código en el que has cometido un error de PHP."
+
+#: admin/metaboxes/base-options.php:108
+msgid "Import snippet"
+msgstr "Importar fragmento  "
+
+#: includes/class.helpers.php:647
+msgid "Purchase premium for"
+msgstr "Compra premium para  "
+
+#: includes/shortcodes/shortcode-ad.php:26
+#: includes/shortcodes/shortcode-css.php:26
+#: includes/shortcodes/shortcode-html.php:26
+#: includes/shortcodes/shortcode-js.php:26
+#: includes/shortcodes/shortcode-php.php:26
+#: includes/shortcodes/shortcode-text.php:26
+#: includes/shortcodes/shortcode-universal.php:26
+msgid "["
+msgstr "["
+
+#: admin/includes/class.actions.snippet.php:176
+msgid "Close"
+msgstr "Cerrar"
+
+#: admin/includes/class.snippets.table.php:563
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 elemento"
+msgstr[1] "%s elementos "
+
+#: admin/includes/class.snippets.table.php:214
+msgid "Insert"
+msgstr "Insertar"
+
+#: admin/includes/class.snippets.table.php:213
+msgid "Date"
+msgstr "Fecha"
+
+#: admin/includes/class.snippets.table.php:206
+msgid "Title"
+msgstr "Título"
+
+#: admin/includes/class.snippets.table.php:205
+msgid "Type"
+msgstr "Tipo"
+
+#: admin/includes/class.api.php:272
+msgid "Unknown sippet type"
+msgstr "Tipo de fragmento desconocido   "
+
+#: admin/includes/class.api.php:269
+msgid "Synchronization snippet error"
+msgstr "Error de sincronización de fragmento de código"
+
+#: admin/includes/class.common.snippet.php:283
+msgid "Edit permalink"
+msgstr "Editar el enlace permanente"
+
+#: admin/includes/class.common.snippet.php:277
+msgid "Permalink"
+msgstr "Enlace permanente"
+
+#: admin/includes/class.common.snippet.php:165
+msgid "Edit universal snippet"
+msgstr "Editar fragmento universal  "
+
+#: admin/includes/class.common.snippet.php:164
+msgid "Edit html snippet"
+msgstr "Edit fragmento Html   "
+
+#: admin/includes/class.common.snippet.php:163
+msgid "Edit js snippet"
+msgstr "Editar fragmento  js"
+
+#: admin/includes/class.common.snippet.php:162
+msgid "Edit css snippet"
+msgstr "Editar fragmento css  "
+
+#: admin/includes/class.common.snippet.php:161
+msgid "Edit text snippet"
+msgstr "Editar fragmento de texto  "
+
+#: admin/includes/class.common.snippet.php:160
+msgid "Edit php snippet"
+msgstr "Editar fragmento php  "
+
+#: admin/includes/class.common.snippet.php:135
+#: admin/includes/class.common.snippet.php:190
+msgid "Add"
+msgstr "Añadir"
+
+#: admin/includes/class.common.snippet.php:97
+#: admin/includes/class.common.snippet.php:155
+msgid "Html snippet"
+msgstr "Fragmento Html  "
+
+#: admin/includes/class.common.snippet.php:96
+#: admin/includes/class.common.snippet.php:154
+msgid "Js snippet"
+msgstr "Fragmento Js   "
+
+#: admin/includes/class.common.snippet.php:93
+#: admin/includes/class.common.snippet.php:151
+msgid "Php snippet"
+msgstr "Fragmento Php   "
+
+#: admin/includes/class.common.snippet.php:75
+msgid "Please run the following command to make the directory writable"
+msgstr "Por favor, ejecuta el siguiente comando para que el directorio tenga permisos de escritura"
+
+#: admin/includes/class.common.snippet.php:74
+msgid "The %s directory is not writable, therefore the CSS and JS files cannot be saved."
+msgstr "El %s directorio no tiene permisos de escritura, por lo tanto los archivos CSS y JS no se pueden guardar."
+
+#: admin/includes/class.common.snippet.php:64
+msgid "Please run the following commands in order to make the directory"
+msgstr "Por favor, ejecuta el siguiente comando para hacer escribible el directorio."
+
+#: admin/includes/class.common.snippet.php:63
+msgid "The %s directory could not be created"
+msgstr "El directorio %s no se pudo crear"
+
+#: admin/pages/import.php:178
+msgid "Bulk export allows exporting all snippets in one click. Bulk export has advanced settings of snippet segmentation by types, tags, or activity. If you value your time use our premium plugin and export all of your snippets in one click."
+msgstr "La exportación por lotes permite exportar todos los fragmentos de código con un solo clic. La exportación por lotes masiva tiene ajustes avanzados de fragmentos de código de segmentación  por tipos, etiquetas o actividad. Si valoras tu tiempo, utiliza nuestro complemento premium y exporta todos tus fragmentos con un solo clic."
+
+#: admin/pages/import.php:177
+msgid "Bulk export [Premium]"
+msgstr "Exportación por lotes [Premium]"
+
+#: admin/pages/import.php:108
+msgid "Woody Code Snippets Import"
+msgstr "Importar Woody Code Snippets"
+
+#: admin/pages/import.php:77
+msgid "To import more then one snippet at a time, you need to purchase <a href=\"%s\">Woody snippets PRO</a>"
+msgstr "Para importar uno o mas fragmentos de código al mismo tiempo necesitas comprar  <a href=\"%s\">Woody snippets PRO</a>"
+
+#: admin/pages/snippet-library.php:103
+msgid "Whenever you or someone from your team save snippets as templates on any website, they go to this section. Our remote server provides snippet synchronization. Thus, snippet templates are always available without extra import/export. The feature is available in the premium version only."
+msgstr "Siempre que tú o alguien de tu equipo guardéis fragmentos de código como plantilla en cualquier web, accedereis a esta sección. Nuestro servidor remoto proporciona sincronización de fragmentos de código. Por lo tanto, las plantillas de fragmentos de código siempre estarán disponibles sin necesidad de importar o exportar. Esta función solo está disponible en la versión premium."
+
+#: admin/pages/snippet-library.php:102
+msgid "My Templates [Premium]"
+msgstr "Mis plantillas [Premium]"
+
+#: admin/pages/snippet-library.php:100
+msgid "Here you see all of your snippet templates. We’ve gathered the frequently used snippets so you can use them in your projects. Snippet templates help to implement your ideas faster without wasting time on searching and studying PHP code. The feature is available in the premium version only."
+msgstr "Aquí puedes ver todas tus plantillas de fragmentos. Hemos recopilado los fragmentos que se utilizan con frecuencia para que puedas utilizarlos en tus proyectos. Las plantillas de fragmentos ayudan a implementar tus ideas más rápidamente sin perder tiempo buscando y estudiando código PHP. La función solo está disponible en la versión premium."
+
+#: admin/pages/snippet-library.php:99
+msgid "Snippets Library [Premium]"
+msgstr "Biblioteca de fragmentos de código [Premium]"
+
+#: admin/pages/snippet-library.php:64
+msgid "An error occurred during delete"
+msgstr "Error durante el borrado"
+
+#: admin/pages/snippet-library.php:62
+msgid "Delete snippet?"
+msgstr "¿Borrar fragmento?  "
+
+#: admin/pages/snippet-library.php:29 admin/pages/snippet-library.php:127
+#: admin/pages/snippet-library.php:134
+msgid "Snippets library"
+msgstr "Biblioteca de fragmentos de código"
+
+#: admin/pages/settings.php:110
+msgid "If you used our plugin from version 1.3.0, then you could use the old shortcodes [insert_php][/insert_php]; from version 2.2.0 we disabled this type of shortcodes by default, as their use is not safe. If you still want to execute your php code via [insert_php][/insert_php] shortcodes, you can enable this option."
+msgstr "Si has usado nuestro plugin desde la versión 1.3.0, entonces podrás usar los antiguos shortcodes [insert_php] [/ insert_php]; a partir de la versión 2.2.0 deshabilitamos este tipo de shortcodes por defecto, ya que su uso no es seguro. Si aún deseas ejecutar tu código php a través de los shortcodes [insert_php] [/ insert_php], puedes activar esta opción."
+
+#: admin/pages/settings.php:108
+msgid "Support old shortcodes [insert_php]"
+msgstr "Compatibilidad para viejos shortcodes [insert_php]"
+
+#: admin/pages/settings.php:83
+msgid "If you want to use an HTML entity in your code (for example &gt; or &quot;), but the editor keeps on changing them to its equivalent character (> and \" for the previous example), then you might want to enable this option."
+msgstr "Si deseas utilizar una entidad HTML en tu código (por ejemplo, & gt; o & quot;), pero el editor sigue cambiándolos a su carácter equivalente (> y < del ejemplo anterior) activar esta opción puede ser la solución. "
+
+#: admin/pages/settings.php:81
+msgid "Keep the HTML entities, don't convert to its character"
+msgstr "Mantener las entidades HTML, no convertir a su carácter"
+
+#: admin/pages/new-item.php:81
+msgid "Used for inserting html code. Can be used for inserting html code."
+msgstr "Usado par insertar código html. Se puede usar para insertar código html."
+
+#: admin/pages/new-item.php:79
+msgid "HTML snippet"
+msgstr "Fragmento HTML  "
+
+#: admin/pages/new-item.php:76
+msgid "Used for inserting js code. Can be used for inserting ads, analytics, embeds & other complex scenarios."
+msgstr "Se utiliza para insertar código js. Se puede usar para insertar anuncios, análisis, incrustaciones y otros escenarios complejos."
+
+#: admin/pages/new-item.php:74
+msgid "JavaScript snippet"
+msgstr "Fragmento JavaScript  "
+
+#: admin/pages/new-item.php:71
+msgid "Used for inserting css code. Can be used for inserting css styles."
+msgstr "Usado para insertar código css. Puede utilizarse para insertar estilos css."
+
+#: admin/includes/class.common.snippet.php:95
+#: admin/includes/class.common.snippet.php:153 admin/pages/new-item.php:69
+msgid "Css snippet"
+msgstr "Fragmento CSS "
+
+#: admin/pages/license.php:342
+msgid "Can’t find your key? Go to <a href=\"%s\" target=\"_blank\" rel=\"noopener\">this page</a> and login using the e-mail address associated with your purchase."
+msgstr "¿No puedes encontrar tu clave? Vete a <a href=\"%s\" target=\"_blank\" rel=\"noopener\">esta página</a> y accede usando tu correo electrónico asociado a tu compra."
+
+#: admin/pages/license.php:338
+msgid "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Lean more</a> about the premium version and get the license key to activate it now!"
+msgstr "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Leer mas</a>  acerca de la versión premium y obtener una licencia para activarlo ahora."
+
+#: admin/pages/license.php:330
+msgid "Submit Key"
+msgstr "Enviar clave"
+
+#: admin/pages/license.php:324
+msgid "Have a key to activate the plugin? Paste it here:"
+msgstr "¿Tienes una clave para activar el plugin? Pégala aqui:"
+
+#: admin/pages/license.php:322
+msgid "Have a key to activate the premium version? Paste it here:"
+msgstr "¿Tienes una clave para activar la versión premium? Pégala aquí:"
+
+#: admin/pages/license.php:311
+msgid "remained"
+msgstr "restantes"
+
+#: admin/pages/license.php:309
+msgid "day(s)"
+msgstr "día(s)"
+
+#: admin/pages/license.php:299
+msgid "please update the key"
+msgstr "por favor, actualiza la clave"
+
+#: admin/pages/license.php:298
+msgid "EXPIRED!"
+msgstr "¡CADUCADA!"
+
+#: admin/pages/license.php:293
+msgid "version"
+msgstr "versión "
+
+#: admin/pages/license.php:288
+msgid "active sites"
+msgstr "sitios activos"
+
+#: admin/pages/license.php:286
+msgid "of"
+msgstr "de"
+
+#: admin/pages/license.php:280
+msgid "plan"
+msgstr "plan"
+
+#: admin/pages/license.php:276
+msgid "domain"
+msgstr "dominio"
+
+#: admin/pages/license.php:268
+msgid "Your license has expired, please extend the license to get updates and support."
+msgstr "Tu licencia ha caducado, por favor, amplía la licencia para obtener actualizaciones y soporte."
+
+#: admin/pages/license.php:262
+msgid "You use a paid subscription for the plugin updates. In case you don’t want to receive paid updates, please, click <a data-action=\"unsubscribe\" class=\"winp-control-btn\" href=\"#\">cancel subscription</a>"
+msgstr "Usas una suscripción de pago para las actualizaciones del plugin. En caso de que no quieras recibir actualizaciones de pago, por favor, haz clic en  <a data-action=\"unsubscribe\" class=\"winp-control-btn\" href=\"#\">cancelar la suscripción</a>   "
+
+#: admin/pages/license.php:258
+msgid "Public License is a GPLv2 compatible license allowing you to change and use this version of the plugin for free. Please keep in mind this license covers only free edition of the plugin. Premium versions are distributed with other type of a license."
+msgstr "La licencia pública es una licencia compatible con GPLv2 que te permite cambiar y usar esta versión del plugin de forma gratuita. Por favor, ten en cuenta que esta licencia solo cubre la edición gratuita del plugin. Las versiones Premium se distribuyen con otro tipo de licencia."
+
+#: admin/pages/license.php:247
+msgid "Automatic renewal, every %s"
+msgstr "Renovación automática, cada %s"
+
+#: admin/pages/license.php:239
+msgid "Synchronization"
+msgstr "Sincronización"
+
+#: admin/pages/license.php:235
+msgid "Delete Key"
+msgstr "Borrar la clave"
+
+#: admin/pages/license.php:229
+msgid "Your current license for %1$s:"
+msgstr "Tu licencia actual en %1$s:"
+
+#: admin/pages/license.php:226
+msgid "Upgrade to Premium for $%s"
+msgstr "Actualizar a Premium por $%s"
+
+#: admin/pages/license.php:215
+msgid "Activate %s"
+msgstr "Activar %s"
+
+#: admin/pages/license.php:91
+msgid "License"
+msgstr "Licencia"
+
+#: admin/ajax/snippet-library.php:31
+msgid "Loading..."
+msgstr "Cargando…"
+
+#: admin/ajax/check-license.php:55
+msgid "Subscription success cancelled"
+msgstr "Suscripción cancelada correctamente"
+
+#: admin/ajax/check-license.php:51
+msgid "The license has been updated"
+msgstr "La licencia se ha actualizado"
+
+#: admin/ajax/check-license.php:47
+msgid "The license is deactivated"
+msgstr "La licencia está desactivada"
+
+#: admin/ajax/check-license.php:42
+msgid "Your license has been successfully activated"
+msgstr "Tu licencia se ha activado correctamente"
+
+#: admin/ajax/check-license.php:39
+msgid "License key is empty or license key too long (license key is 32 characters long)"
+msgstr "La clave de licencia está vacía o es demasiado larga (la clave de licencia tiene 32 caracteres de longitud)."
+
+#: admin/ajax/check-license.php:27
+msgid "Licensing action not passed or this action is prohibited!"
+msgstr "¡La acción de licencia no ha sido aprobada o esta acción está prohibida!"
+
+#: admin/metaboxes/revisions.php:118
+msgid "M j, Y @ H:i"
+msgstr "M j, Y @ H:i"
+
+#: admin/metaboxes/revisions.php:102 admin/metaboxes/revisions.php:124
+msgid "Restore"
+msgstr "Restablecer"
+
+#: admin/metaboxes/revisions.php:100
+msgid "Author"
+msgstr "Autor"
+
+#: admin/metaboxes/revisions.php:99
+msgid "Revision"
+msgstr "Revisión"
+
+#: admin/metaboxes/revisions.php:98 admin/metaboxes/revisions.php:136
+msgid "Compare"
+msgstr "Comparar"
+
+#: admin/metaboxes/revisions.php:68
+msgid "Access denied"
+msgstr "Acceso denegado"
+
+#: admin/metaboxes/revisions.php:46
+msgid "Code Revisions"
+msgstr "Revisiones de código"
+
+#: admin/metaboxes/view-options.php:245
+msgid "The total number of sessions opened by the user"
+msgstr "El número total de sesiones abiertas por el usuario"
+
+#: admin/metaboxes/view-options.php:243
+msgid "Total number of visits"
+msgstr "Numero total de visitas"
+
+#: admin/metaboxes/view-options.php:239
+msgid "The time interval during which the user entered"
+msgstr "El intervalo de tiempo empleado por el usuario"
+
+#: admin/metaboxes/view-options.php:237
+msgid "Attendance by time of day"
+msgstr "Asistencia por hora del día"
+
+#: admin/metaboxes/view-options.php:233
+msgid "The number of pages viewed by the user per session"
+msgstr "Número de páginas vistas por usuario y sesión"
+
+#: admin/metaboxes/view-options.php:231
+msgid "Viewing depth"
+msgstr "Profundidad de visualización"
+
+#: admin/metaboxes/view-options.php:227
+msgid "Geolocation"
+msgstr "Geolocalización"
+
+#: admin/metaboxes/view-options.php:225
+msgid "User country"
+msgstr "País del usuario"
+
+#: admin/metaboxes/view-options.php:221
+msgid "Auditory"
+msgstr "Auditoría"
+
+#: admin/metaboxes/view-options.php:215
+msgid "Determines whether the user use selected device type."
+msgstr "Determina si el usuario usa el tipo de dispositivo seleccionado"
+
+#: admin/metaboxes/view-options.php:213
+msgid "Device type"
+msgstr "Tipo de dispositivo"
+
+#: admin/metaboxes/view-options.php:209
+msgid "Determines whether the user use selected OS."
+msgstr "Determina si el usuario usa el tipo de SO seleccionado"
+
+#: admin/metaboxes/view-options.php:207
+msgid "Operating system"
+msgstr "Sistema operativo"
+
+#: admin/metaboxes/view-options.php:203
+msgid "Determines whether the user use javascript on website."
+msgstr "Determina si el usuario usa JavaScript en la web."
+
+#: admin/metaboxes/view-options.php:201
+msgid "Use javascript"
+msgstr "Usa javascript"
+
+#: admin/metaboxes/view-options.php:197
+msgid "Determines whether the user use cookie on website."
+msgstr "Determina si el usuario usa cookies en la web"
+
+#: admin/metaboxes/view-options.php:195
+msgid "Use cookie"
+msgstr "Usa cookies"
+
+#: admin/metaboxes/view-options.php:191
+msgid "Determines whether the user use selected browser."
+msgstr "Determina si el usuario usa el tipo de navegador seleccionado"
+
+#: admin/metaboxes/view-options.php:189
+msgid "Browser"
+msgstr "Navegador"
+
+#: admin/metaboxes/view-options.php:185
+msgid "Determines whether the user use Addblocker on website."
+msgstr "Determina si el usuario usa Addblocker en el sitio"
+
+#: admin/metaboxes/view-options.php:183
+msgid "Addblocker"
+msgstr "Addblocker"
+
+#: admin/metaboxes/view-options.php:179
+msgid "Technology"
+msgstr "Tecnología"
+
+#: admin/metaboxes/base-options.php:714
+msgid "Available attributes for shortcode via comma. Only numbers, letters and underscore characters are allowed. Attribute id is always available. With this option you can set additional attributes for the shortcode. Example: start_date attribute to [%s id='xxx' start_date='2018/01/15'] shortcode. Now we can get attribute value in the snippet with the $start_date variable. It's convenient if you want to print out different results depending on this attributes."
+msgstr "Atributos disponibles para shortcode mediante comas. Solo se permiten números, letras y guiones bajos. El id de atributo siempre está disponible. Con esta opción puedes establecer atributos adicionales para el shortcode. Ejemplo: atributo fecha_inicial al shortcode [%s id = 'xxx' fecha_inicio = '2018/01/15']. Ahora podemos obtener el valor del atributo en el fragmento de código con la variable $ start_date. Es conveniente si se desea imprimir resultados diferentes según estos atributos."
+
+#: admin/metaboxes/base-options.php:691
+msgid "Select how the snippet will be linked to the page."
+msgstr "Selecciona como será enlazado el fragmento de código con la página"
+
+#: admin/metaboxes/base-options.php:690
+msgid "Linking type"
+msgstr "Tipo de enlazado"
+
+#: admin/metaboxes/base-options.php:688
+msgid "Inline Code"
+msgstr "Código integrado"
+
+#: admin/metaboxes/base-options.php:687
+msgid "External File"
+msgstr "Archivo externo"
+
+#: admin/metaboxes/base-options.php:609
+msgid "By default, all snippet shortcodes look like this: [wbcr_snippet id=”121”]. Such shortcodes are hard to remember. In addition, when you move a snippet to another website its ID can be changed. So the best solution for the snippets use regularly is to define a custom shortcode name. The custom shortcode may look like this: [soccer_match_date]"
+msgstr "Por defecto, todos los shortcodes de fragmentos de código tienen este aspecto: [wbcr_snippet id = ”121”]. Estos shortcodes son difíciles de recordar. Además, cuando mueves un fragmento de código a otra web pueden cambiar su ID. Entonces, la mejor solución para los fragmentos de código que se usan regularmente es definir un nombre de shortcode personalizado. El shortcode abreviado personalizado puede ser así: [soccer_match_date]"
+
+#: admin/metaboxes/base-options.php:608
+msgid "Custom shortcode name"
+msgstr "Nombre del shortcode personalizado"
+
+#: admin/metaboxes/base-options.php:490
+msgid "Save as template"
+msgstr "Guardar como plantilla"
+
+#: admin/metaboxes/base-options.php:278
+msgid "Enter template name"
+msgstr "Introduce el título de la plantilla"
+
+#: admin/metaboxes/base-options.php:273
+msgid "A copy of your snippet and its settings are stored on our remote server. You can access it from any website where you’ve activated the plugin’s premium version. If you have our plugin on multiple websites or work in a team, it’s quite handy to use templates. The feature is available in the premium version only."
+msgstr "Una copia de tu fragmento de código y sus ajustes se almacenan en nuestro servidor remoto. Puedes acceder a él desde cualquier web donde tengas activada la versión premium del plugin. Si tienes nuestro plugin en varias webs o trabajas en equipo es muy útil utilizar plantillas. Esta característica solo está disponible en la versión premium."
+
+#: admin/metaboxes/base-options.php:270
+msgid "Your snippets will be available for export and reuse on any page or website"
+msgstr "Tus fragmentos de código estarán disponibles para su exportación y reutilización en cualquier página o web"
+
+#: admin/metaboxes/base-options.php:265
+msgid "Save a Snippet as a Template"
+msgstr "Guardar un fragmento de código como una plantilla"
+
+#: admin/metaboxes/base-options.php:113
+msgid "Snippet template succefully saved!"
+msgstr "¡La plantilla del fragmento de código se ha guardado!"
+
+#: admin/metaboxes/base-options.php:111
+msgid "An error occurred during export"
+msgstr "Se ha producido un error durante la exportación."
+
+#: admin/metaboxes/base-options.php:110 admin/pages/snippet-library.php:63
+msgid "An error occurred during import"
+msgstr "Se ha producido un error durante la importación."
+
+#: admin/metaboxes/base-options.php:109 admin/metaboxes/base-options.php:489
+msgid "Export snippet"
+msgstr "Exportar fragmento "
+
+#: libs/factory/core/includes/class-factory-migrations.php:508
+msgid "There is no PHP Tokenizer extension installed on your server, you cannot use the token_get_all function."
+msgstr "No hay ninguna extensión PHP Tokenizer instalada en tu servidor, no puedes usar la función token_get_all. "
+
+#: libs/factory/core/includes/class-factory-migrations.php:177
+msgid "migrations DEBUG bar"
+msgstr "barra de DEPURACIÓN de migraciones"
+
+#: libs/factory/core/includes/class-factory-migrations.php:170
+msgid "Migrate now"
+msgstr "Migrar ahora"
+
+#: libs/factory/core/includes/class-factory-migrations.php:169
+msgid "Need migration:"
+msgstr "Necesita migración"
+
+#: libs/factory/core/includes/class-factory-migrations.php:168
+msgid "Current plugin version:"
+msgstr "Versión actual del plugin:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:167
+msgid "Old plugin version (debug):"
+msgstr "Versión antigua del plugin (depuración):"
+
+#: libs/factory/core/includes/class-factory-migrations.php:165
+msgid "Plugin activated:"
+msgstr "Plugin activado:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:139
+msgid "migration error"
+msgstr "error de migración"
+
+#: libs/factory/core/includes/class-factory-migrations.php:132
+msgid "I fixed, confirm migration"
+msgstr "Lo he corregido, confirmo la migración"
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:816
+msgid ""
+"Congratulations, you have activated a premium license! Please activate premium add-on to use pro features now.\n"
+"        <a href=\"%s\">Activate</a> premium add-on or <a href=\"%s\">cancel</a> license."
+msgstr ""
+"¡Felicidades, has activado una licencia premium! Por favor, activa ahora la extensión premium pra usar las características pro.\n"
+"        <a href=\"%s\">Activar</a>  la extensión premium o  <a href=\"%s\">cancelar</a>  la licencia."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:814
+msgid ""
+"Congratulations, you have activated a premium license! Please install premium add-on to use pro features now.\n"
+"        <a href=\"%s\">Install</a> premium add-on or <a href=\"%s\">cancel</a> license."
+msgstr ""
+"¡Felicidades, has activado una licencia premium! Por favor, instala ahora la extensión premium para usar las características pro.\n"
+"        <a href=\"%s\">Instalar</a>  la extensión premium o <a href=\"%s\">cancelar</a>  la licencia."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:813
+msgid "Your license has expired. You can no longer get premium plugin updates, premium support and your access to Webcraftic services has been suspended."
+msgstr "Tu licencia ha caducado. Ya no puedes obtener las actualizaciones premium del plugin ni soporte premium y tu acceso a los servicios de Webcraftic ha sido suspendido."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:812
+msgid "License activation required. A license is required to get premium plugin updates, as well as to get additional services."
+msgstr "Se necesita la activación de la licencia. Es necesaria una licencia para obtener las actualizaciones premium del plugin, así como para obtener servicios adicionales."
+
+#: admin/includes/class.notices.php:144
+msgid "Disable Safe Mode"
+msgstr "Desactivar modo seguro"
+
+#: admin/includes/class.notices.php:80
+msgid "Take the survey now"
+msgstr "Haz la encuesta ahora"
+
+#: admin/includes/class.notices.php:79
+msgid "Please take the time to answer a short survey on how you use this plugin and what you'd like to see changed or added in the future."
+msgstr "Tómate tiempo para responder una breve encuesta sobre cómo usa este plugin y lo que te gustaría ver cambiado o agregado en el futuro."
+
+#: admin/includes/class.notices.php:79
+msgid "Have feedback on Woody ad Snippets?"
+msgstr "¿Tienes alguna sugerencia sobre Woody and Snippets?"
+
+#: admin/metaboxes/info.php:52
+msgid "Robin image optimizer: notice"
+msgstr "Robin image optimizer: Aviso"
+
+#: admin/pages/about.php:50
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/pages/about.php:49
+msgid "What&#8217;s New"
+msgstr "Novedades"
+
+#: admin/pages/about.php:29
+msgid "About"
+msgstr "Acerca de"
+
+#: admin/pages/new-item.php:107
+msgid "Click here to learn more"
+msgstr "Haz clic aquí para aprender más"
+
+#: admin/pages/new-item.php:104
+msgid "Create Item"
+msgstr "Crear elemento"
+
+#: admin/pages/new-item.php:92
+msgid "Choose which snippet you would like to create."
+msgstr "Elige cuál fragmento deseas crear. "
+
+#: admin/pages/new-item.php:91
+msgid "Creating New Snippet"
+msgstr "Crear un nuevo fragmento de código"
+
+#: admin/pages/new-item.php:66
+msgid "Used for inserting php, html, js & css code. Can be used for inserting ads, analytics, embeds & other complex scenarios."
+msgstr "Se utiliza para insertar código php, html, js y css. Se puede utilizar para insertar anuncios, análisis, incrustaciones y otros escenarios complejos"
+
+#: admin/includes/class.common.snippet.php:98
+#: admin/includes/class.common.snippet.php:156 admin/pages/new-item.php:64
+msgid "Universal snippet"
+msgstr "Fragmento de código universal"
+
+#: admin/pages/new-item.php:61
+msgid "Used for inserting formatted text. Can be used for inserting quotes, paragraphs, shortcodes from other plugins, tables, media files."
+msgstr "Se utiliza para insertar texto formateado. Se puede utilizar para insertar citas, párrafos, shortcodes de otros plugins, tablas, archivos de medios."
+
+#: admin/includes/class.common.snippet.php:94
+#: admin/includes/class.common.snippet.php:152 admin/pages/new-item.php:59
+msgid "Text snippet"
+msgstr "Fragmento de texto "
+
+#: admin/pages/new-item.php:56
+msgid "Used for inserting php code. Can be used for registering functions, hooks, global variables, printing text. Virtual functions.php"
+msgstr "Se utiliza para insertar código php. Se puede utilizar para registrar funciones, ganchos, variables globales, imprimir texto. Es un functions.php virtual. "
+
+#: admin/pages/import.php:166
+msgid "Upload files and import"
+msgstr "Subir archivos e importar  "
+
+#. translators: %s: size in bytes
+#: admin/pages/import.php:157
+msgid "(Maximum size: %s)"
+msgstr "(Tamaño máximo: %s) "
+
+#: admin/pages/import.php:155
+msgid "Choose files from your computer:"
+msgstr "Elige los archivos desde tu ordenador:"
+
+#: admin/pages/import.php:150
+msgid "Choose one or more Php Snippets (.json) files to upload, then click \"Upload files and import\"."
+msgstr "Elige uno o más archivos de fragmento Php(.json) para subir  y, después, haz clic en «Subir archivos e importar». "
+
+#: admin/pages/import.php:148
+msgid "Upload Files"
+msgstr "Subir archivos"
+
+#: admin/pages/import.php:143
+msgid "Do not import any duplicate snippets; leave all existing snippets unchanged."
+msgstr "No importar ningún fragmento de código duplicado; dejar sin cambios todos los fragmentos de código existentes.  "
+
+#: admin/pages/import.php:137
+msgid "Replace any existing snippets with a newly imported snippet of the same name."
+msgstr "Reemplazar cualquier fragmento de código existente con un nuevo fragmento de código importado que tenga el mismo nombre. "
+
+#: admin/pages/import.php:131
+msgid "Ignore any duplicate snippets: import all snippets from the file regardless and leave all existing snippets unchanged."
+msgstr "Ignorar cualquier fragmento de código duplicado: importar todos los fragmentos de código desde el archivo, dejando sin cambios todos los fragmentos de código existentes. "
+
+#: admin/pages/import.php:124
+msgid "What should happen if an existing snippet is found with an identical name to an imported snippet?"
+msgstr "¿Qué debería ocurrir si se encuentra un fragmento de código con un nombre idéntico al de un fragmento de código importado?  "
+
+#: admin/pages/import.php:122
+msgid "Duplicate Snippets"
+msgstr "Duplicar fragmentos  "
+
+#: admin/pages/import.php:121
+msgid "Upload one or more Php Snippets export files and the snippets will be imported."
+msgstr "Sube uno o más fragmentos de código Php de exportación y los fragmentos de código se importarán"
+
+#: admin/pages/snippet-library.php:61
+msgid "Import snippet?"
+msgstr "¿Importar fragmento de código?"
+
+#: admin/pages/import.php:83
+msgid "No files selected!"
+msgstr "No se ha seleccionado ningún archivo"
+
+#: admin/pages/import.php:68
+msgid "Successfully imported <strong>%1$d</strong> snippet."
+msgid_plural "Successfully imported <strong>%1$d</strong> snippets."
+msgstr[0] "Importación realizada <strong>%1$d</strong>  fragmento de código."
+msgstr[1] "Importación realizada <strong>%1$d</strong> fragmentos de código."
+
+#: admin/pages/import.php:66
+msgid "No snippets were imported."
+msgstr "No se han importado fragmentos de código."
+
+#: admin/pages/import.php:61
+msgid "An error occurred when processing the import files."
+msgstr "Ha ocurrido un error al procesar los archivos de importación."
+
+#: admin/pages/import.php:113
+msgid "Import"
+msgstr "Importar"
+
+#: admin/pages/settings.php:191
+msgid "The optional feature. If ON, it searches for matches for the selected variable/function name. Highlight matches with green. Improves readability."
+msgstr "Característica opcional. Si está activada busca coincidencias para el nombre de función o variable seleccionada. Resalta las coincidencias con verde y mejora la legibilidad."
+
+#: admin/pages/settings.php:182
+msgid "The optional feature. If ON, the editor will automatically close opened quotes or brackets. Sometimes, it speeds up coding."
+msgstr "La característica opcional. Si está activado, el editor cerrará automáticamente las comillas o corchetes abiertos. A veces, acelera la codificación."
+
+#: admin/pages/settings.php:173
+msgid "The optional feature. If ON, all lines in the editor will be numbered."
+msgstr "La característica opcional. Si está activado, todas las líneas del editor estarán numeradas."
+
+#: admin/pages/settings.php:164
+msgid "The optional feature. If ON, the editor will wrap long lines. Otherwise, it will create a horizontal scroll."
+msgstr "La característica opcional. Si está activado, el editor ajustará las líneas largas. De lo contrario, creará un desplazamiento horizontal."
+
+#: admin/pages/settings.php:155
+msgid "The optional feature. The indent for code lines (units). Example: select a snippet, press Tab. The left indent in the selected code increases to N spaces. N is a number pre-defined by you."
+msgstr "Característica opcional. Sangría para líneas de código (unidades). Ejemplo: selecciona un fragmento de código y presiona tabulador. La sangría izquierda en el código seleccionado aumenta  N espacios. N es el número que has predefinido. "
+
+#: admin/pages/settings.php:146
+msgid "The optional feature. Pressing Tab in the code editor increases left indent to N spaces. N is a number pre-defined by you."
+msgstr "Característica opcional. Presionar Tab en el editor de código aumenta la sangría izquierda a N espacios. N es un número predefinido por tí."
+
+#: admin/pages/settings.php:137
+msgid "The optional feature. Whether, when indenting, the first N*tabSize spaces should be replaced by N tabs. The default is false."
+msgstr "Característica opcional. Al sangrar los primeros N espacios deben reemplazarse por N tabulaciones. El valor por defecto es false."
+
+#: admin/pages/settings.php:128
+msgid "The optional feature. You can customize the code style in the snippet editor. The \"Default\" style is applied by default."
+msgstr "Característica opcional. Puedes personalizar el estilo del código en el editor de fragmentos de código. El estilo por defecto se aplica de manera predeterminada."
+
+#: admin/pages/settings.php:101
+msgid "When the plugin is deleted from the Plugins menu, also delete all snippets and plugin settings."
+msgstr "Cuando el plugin se borra del menú de plugins, también se borran todos los fragmentos de código y los ajustes del plugin."
+
+#: admin/pages/settings.php:99
+msgid "Complete Uninstall"
+msgstr "Desinstalación completa"
+
+#: admin/metaboxes/view-options.php:471
+msgid "absolute"
+msgstr "absoluto"
+
+#: admin/metaboxes/view-options.php:469
+msgid "relative"
+msgstr "relativo"
+
+#: admin/metaboxes/view-options.php:433
+msgid ", younger than"
+msgstr ", mas nuevo que"
+
+#: admin/metaboxes/view-options.php:431 admin/metaboxes/view-options.php:442
+#: admin/metaboxes/view-options.php:462
+msgid "Year(s)"
+msgstr "Año(s)"
+
+#: admin/metaboxes/view-options.php:430 admin/metaboxes/view-options.php:441
+#: admin/metaboxes/view-options.php:461
+msgid "Month(s)"
+msgstr "Mes(es)"
+
+#: admin/metaboxes/view-options.php:429 admin/metaboxes/view-options.php:440
+#: admin/metaboxes/view-options.php:460
+msgid "Week(s)"
+msgstr "Semana(s)"
+
+#: admin/metaboxes/view-options.php:428 admin/metaboxes/view-options.php:439
+#: admin/metaboxes/view-options.php:459
+msgid "Day(s)"
+msgstr "Día(s)"
+
+#: admin/metaboxes/view-options.php:427 admin/metaboxes/view-options.php:438
+#: admin/metaboxes/view-options.php:458
+msgid "Hours(s)"
+msgstr "Horas(s)"
+
+#: admin/metaboxes/view-options.php:426 admin/metaboxes/view-options.php:437
+#: admin/metaboxes/view-options.php:457
+msgid "Minutes(s)"
+msgstr "Minutos(s)"
+
+#: admin/metaboxes/view-options.php:425 admin/metaboxes/view-options.php:436
+#: admin/metaboxes/view-options.php:456
+msgid "Second(s)"
+msgstr "Segundo(s)"
+
+#: admin/metaboxes/view-options.php:422
+msgid "older than"
+msgstr "mas antiguo que"
+
+#: admin/metaboxes/view-options.php:415
+msgid "to"
+msgstr "a"
+
+#: admin/metaboxes/view-options.php:410
+msgid "from"
+msgstr "desde"
+
+#: admin/metaboxes/view-options.php:402
+msgid "AND"
+msgstr "Y"
+
+#: admin/metaboxes/view-options.php:401
+msgid "OR"
+msgstr "O"
+
+#: admin/metaboxes/view-options.php:394
+msgid "Between"
+msgstr "Entre"
+
+#: admin/metaboxes/view-options.php:393
+msgid "Doesn't Сontain"
+msgstr "No contiene"
+
+#: admin/metaboxes/view-options.php:392
+msgid "Contains"
+msgstr "Contiene"
+
+#: admin/metaboxes/view-options.php:391
+msgid "Younger Than"
+msgstr "Más nuevo que"
+
+#: admin/metaboxes/view-options.php:390
+msgid "Older Than"
+msgstr "Más antiguo que"
+
+#: admin/metaboxes/view-options.php:389
+msgid "Less Than"
+msgstr "Menos de"
+
+#: admin/metaboxes/view-options.php:388
+msgid "Greater Than"
+msgstr "Mayor que"
+
+#: admin/metaboxes/view-options.php:387
+msgid "Doesn't Equal"
+msgstr "No es igual"
+
+#: admin/metaboxes/view-options.php:386
+msgid "Equals"
+msgstr "Iguales"
+
+#: admin/metaboxes/view-options.php:361
+msgid "and"
+msgstr "y "
+
+#: admin/metaboxes/view-options.php:355
+msgid "No conditions specified. <a href=\"#\" class=\"winp-link-add\">Click here</a> to add one."
+msgstr "No se han especificado condiciones. <a href=\"#\" class=\"winp-link-add\"> Haz clic aquí </a> para añadir uno."
+
+#: admin/metaboxes/view-options.php:337 admin/metaboxes/view-options.php:364
+msgid "or"
+msgstr "o"
+
+#: admin/metaboxes/view-options.php:335
+msgid "Do Not Display IF"
+msgstr "No mostrar SI"
+
+#: admin/metaboxes/view-options.php:334
+msgid "Display On IF"
+msgstr "Mostrar activo si"
+
+#: admin/metaboxes/view-options.php:331
+msgid "Show IF"
+msgstr "Mostrar SI"
+
+#: admin/metaboxes/view-options.php:322
+msgid "No filters specified. <a href=\"#\" class=\"winp-add-filter\">Click here</a> to add one."
+msgstr "No se especificaron filtros. <a href=\"#\" class=\"winp-add-filter\"> Haz clic aquí </a> para agregar uno.  "
+
+#: admin/metaboxes/view-options.php:292
+msgid "[Delayed Lock]: Show the locker only in posts older than 5 days"
+msgstr "[Bloqueo retrasado]: muestra el casillero solo en publicaciones de más de 5 días"
+
+#: admin/metaboxes/view-options.php:277
+msgid "[Hide On Mobile]: Hide the locker on mobile devices"
+msgstr "[Hide On Mobile]: oculta el casillero en dispositivos móviles"
+
+#: admin/metaboxes/view-options.php:262
+msgid "[Hide For Members]: Show the locker only for guests"
+msgstr "[Ocultar para miembros]: muestra el casillero solo para invitados"
+
+#: admin/metaboxes/view-options.php:173
+msgid "List of specific pages."
+msgstr "Lista de páginas específicas"
+
+#: admin/metaboxes/view-options.php:163
+msgid "A taxonomy of the current page."
+msgstr "Una taxonomía de la página actual."
+
+#: admin/metaboxes/view-options.php:143
+msgid "A post type of the current page."
+msgstr "Un tipo de contenido de la página actual."
+
+#: admin/metaboxes/view-options.php:137
+msgid "Post type"
+msgstr "Tipo de contenido"
+
+#: admin/metaboxes/view-options.php:133
+msgid "A referrer URL which has brought a user to the current page."
+msgstr "Una URL de referencia que ha llevado a un usuario a la página actual."
+
+#: admin/metaboxes/view-options.php:131
+msgid "Current Referrer"
+msgstr "Referente actual   "
+
+#: admin/metaboxes/view-options.php:127
+msgid "An URL of the current page where a user who views your website is located."
+msgstr "Una URL de la página actual donde se encuentra un usuario que visita tu web."
+
+#: admin/metaboxes/view-options.php:125
+msgid "Current Page"
+msgstr "Página actual"
+
+#: admin/metaboxes/view-options.php:121
+msgid "Location"
+msgstr "Ubicación"
+
+#: admin/metaboxes/view-options.php:115
+msgid "Determines whether the user's browser has a cookie with a given name."
+msgstr "Determina si el navegador del usuario tiene una cookie con un nombre dado."
+
+#: admin/metaboxes/view-options.php:112
+msgid "Cookie Name"
+msgstr "Nombre de la cookie"
+
+#: admin/metaboxes/view-options.php:98
+msgid "The date when the user who views your website was registered. For unregistered users this date always equals to 1 Jan 1970."
+msgstr "Fecha en la que se registró el usuario que visita tu web. Para los usuarios no registrados, esta fecha siempre es igual al 1 de enero de 1970."
+
+#: admin/metaboxes/view-options.php:96
+msgid "Registration Date"
+msgstr "Fecha de registro"
+
+#: admin/metaboxes/view-options.php:92
+msgid "A role of the user who views your website. The role \"guest\" is applied to unregistered users."
+msgstr "Un perfil del usuario que ve tu web. El perfil «invitado» se aplica a los usuarios sin registrar."
+
+#: admin/metaboxes/view-options.php:86
+msgid "Role"
+msgstr "Perfil"
+
+#: admin/metaboxes/view-options.php:82
+msgid "User"
+msgstr "Usuario"
+
+#: admin/metaboxes/view-options.php:38
+msgid "Conditional execution logic for the snippet"
+msgstr "Lógica de ejecución condicional para el fragmento de código"
+
+#: admin/metaboxes/base-options.php:713
+msgid "Available attributes"
+msgstr "Atributos disponibles"
+
+#: admin/metaboxes/base-options.php:676
+msgid "Paragraph / Post number"
+msgstr "Número de párrafo / Número de entrada"
+
+#: admin/metaboxes/base-options.php:675
+msgid "Location number"
+msgstr "Numero de ubicación "
+
+#: admin/metaboxes/base-options.php:667
+msgid "Select the location for you snippet."
+msgstr "Selecciona la ubicación del fragmento de código."
+
+#: admin/metaboxes/base-options.php:666
+msgid "Insertion location"
+msgstr "Lugar de inserción"
+
+#: includes/class.insertion.locations.php:128
+msgid "Snippet will be placed after the post, which number you can specify in the Location number field."
+msgstr "El fragmento de código se colocará después de la entrada, cuyo número puedes especificar en el campo del número de ubicación."
+
+#: includes/class.insertion.locations.php:120
+msgid "Snippet will be placed before the post, which number you can specify in the Location number field."
+msgstr "El fragmento de código se colocará antes de la publicación, cuyo número puede especificar en el campo número de ubicación. "
+
+#: includes/class.insertion.locations.php:112
+msgid "Snippet will be placed between each post."
+msgstr "El fragmento de código se colocará entre cada publicación. "
+
+#: includes/class.insertion.locations.php:104
+msgid "Snippet will be placed after the excerpt of the post/page."
+msgstr "El fragmento de código se colocará después del extracto de la entrada/página."
+
+#: includes/class.insertion.locations.php:96
+msgid "Snippet will be placed before the excerpt of the post/page."
+msgstr "El fragmento de código se colocará antes del extracto de la entrada/página."
+
+#: includes/class.insertion.locations.php:86
+msgid "Snippet will be placed in the very end of the post/page."
+msgstr "El fragmento de código se colocará al final de la entrada/página."
+
+#: includes/class.insertion.locations.php:78
+msgid "Snippet will be placed after the content of the post/page."
+msgstr "El fragmento de código será emplazado después del contenido de la entrada/página"
+
+#: includes/class.insertion.locations.php:70
+msgid "Snippet will be placed after the paragraph, which number you can specify in the Location number field."
+msgstr "El fragmento de código se colocará después del párrafo, cuyo número puede especificar en el campo número de ubicación. "
+
+#: includes/class.insertion.locations.php:62
+msgid "Snippet will be placed before the paragraph, which number you can specify in the Location number field."
+msgstr "El fragmento de código se colocará antes del párrafo, cuyo número puede especificar en el campo número de ubicación. "
+
+#: includes/class.insertion.locations.php:54
+msgid "Snippet will be placed before the content of the post/page."
+msgstr "El fragmento de código será emplazado antes del contenido de la entrada/página"
+
+#: includes/class.insertion.locations.php:46
+msgid "Snippet will be placed before the title of the post/page."
+msgstr "El fragmento de código será emplazado antes del título de la entrada/página."
+
+#: includes/class.insertion.locations.php:36
+msgid "Snippet will be placed in the source code before </body>."
+msgstr "El fragmento de código se colocará en el código fuente antes de </body> "
+
+#: includes/class.insertion.locations.php:28
+msgid "Snippet will be placed in the source code before </head>."
+msgstr "El fragmento de código se colocará en el código fuente antes de </head> "
+
+#: admin/metaboxes/base-options.php:572
+msgid "If you want to place some content into your snippet from the shortcode just wrap it inside [wbcr%s_snippet id=\"xxx\"]content[/wbcr%s_snippet]. To use this content inside the snippet use $content variable."
+msgstr "Si deseas colocar algo de contenido en tu fragmento de código desde el shortcode, simplemente mételo dentro de [wbcr%s_snippet id = \"xxx\"] contenido [/ wbcr%s_snippet]. Para usar este contenido dentro del snippet, usa la variable $content."
+
+#: admin/metaboxes/base-options.php:569
+msgid "If you want to place some content into your snippet from the shortcode just wrap it inside [wbcr_text_snippet id=\"xxx\"]content[/wbcr_text_snippet]. To use this content inside the snippet use {{SNIPPET_CONTENT}} variable."
+msgstr "Si deseas colocar algo de contenido  en su fragmento de código desde el shortcode, simplemente mételo dentro de [wbcr_text_snippet id = \"xxx\"] contenido [/ wbcr_text_snippet]. Para usar este contenido dentro del fragmento, usa la variable {{SNIPPET_CONTENT}}."
+
+#: admin/includes/class.filter.snippet.php:38
+msgid "Filter by tag:"
+msgstr "Filtrar por etiquetas:"
+
+#: admin/metaboxes/base-options.php:575
+msgid "Automatic insertion"
+msgstr "Inserción automática "
+
+#: admin/metaboxes/base-options.php:630
+msgid "Categories, Archives, Tags, Taxonomies"
+msgstr "Categorías, archivos, etiquetas, taxonomías"
+
+#: admin/metaboxes/base-options.php:625
+msgid "Posts, Pages, Custom post types"
+msgstr "Entradas, páginas, tipos de contenidos personalizados"
+
+#: admin/metaboxes/base-options.php:620 includes/class.helpers.php:748
+msgid "Everywhere"
+msgstr "En todos lados"
+
+#: includes/class.insertion.locations.php:127
+msgid "After post"
+msgstr "Después de la entrada"
+
+#: includes/class.insertion.locations.php:119
+msgid "Before post"
+msgstr "Antes de la entrada"
+
+#: includes/class.insertion.locations.php:111
+msgid "Between Posts"
+msgstr "Entre entradas"
+
+#: includes/class.insertion.locations.php:103
+msgid "Insert After Excerpt"
+msgstr "Insertar después del extracto"
+
+#: includes/class.insertion.locations.php:95
+msgid "Insert Before Excerpt"
+msgstr "Insertar antes del extracto"
+
+#: includes/class.insertion.locations.php:85
+msgid "Insert After Post"
+msgstr "Insertar después del extracto"
+
+#: includes/class.insertion.locations.php:77
+msgid "Insert After Content"
+msgstr "Insertar después del contenido"
+
+#: includes/class.insertion.locations.php:69
+msgid "Insert After Paragraph"
+msgstr "Insertar después del párrafo"
+
+#: includes/class.insertion.locations.php:61
+msgid "Insert Before Paragraph"
+msgstr "Insertar antes del párrafo"
+
+#: includes/class.insertion.locations.php:53
+msgid "Insert Before Content"
+msgstr "Insertar antes del contenido"
+
+#: includes/class.insertion.locations.php:45
+msgid "Insert Before Post"
+msgstr "Insertar antes de la entrada"
+
+#: includes/class.insertion.locations.php:35
+msgid "Footer"
+msgstr "Pie de página "
+
+#: includes/class.insertion.locations.php:27
+msgid "Header"
+msgstr "Cabecera"
+
+#: admin/includes/class.actions.snippet.php:111
+#: admin/includes/class.snippets.table.php:217
+#: admin/metaboxes/revisions.php:101 admin/metaboxes/revisions.php:138
+#: libs/factory/core/includes/components/class-install-component-button.php:426
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/includes/class.actions.snippet.php:90
+#: admin/includes/class.actions.snippet.php:110
+#: admin/includes/class.actions.snippet.php:179 admin/pages/import.php:116
+msgid "Export"
+msgstr "Exportar"
+
+#: admin/includes/class.notices.php:121
+msgid "For more information on porting code and using snippets, see our plugin <a href=\"%s\" target=\"_blank\">documentation</a>"
+msgstr "Para obtener más información sobre la portabilidad del código y el uso de fragmentos de código, consulta nuestra <a href=\"%s\" target=\"_blank\"> documentación </a> del plugin."
+
+#: admin/includes/class.notices.php:118
+msgid "Attention! If you have previously used version 1.3.0 of plugin Insert php. This new %s plugin version, we added the ability to insert php code using snippets. This is a more convenient and secure way than using shortcodes [insert_php] code execute [/ insert_php]. However, for compatibility reasons, we left support for [insert_php] shortcodes until March 2019, after that we will stop supporting shortcodes [insert_php]."
+msgstr "¡Atención! Si has utilizado anteriormente la versión 1.3.0 del plugin para insertar php. A esta nueva versión %s del plugin le añadimos la capacidad de insertar código php usando fragmentos de código. Esta es una forma más conveniente y segura que usar shortcodes [insert_php] código a ejecutar [/ insert_php]. Sin embargo, por razones de compatibilidad, dejamos la compatibilidad con shortcodes [insert_php] hasta marzo de 2019, después de eso dejaremos de admitir shortcodes [insert_php]."
+
+#: admin/includes/class.common.snippet.php:125
+#: admin/types/snippets-post-types.php:45
+#: admin/types/snippets-post-types.php:46
+#: admin/assets/gutenberg/build/index.build.js:96
+#: admin/assets/gutenberg/src/index.js:11
+msgid "Woody snippets"
+msgstr "Woody snippets"
+
+#: admin/ajax/ajax.php:206
+msgid "All Pages Archive"
+msgstr "Archivo de todas las páginas"
+
+#: admin/ajax/ajax.php:202
+msgid "All Pages"
+msgstr "Todas las páginas"
+
+#: admin/ajax/ajax.php:196
+msgid "All Tags Archive"
+msgstr "Archivo de todas las etiquetas"
+
+#: admin/ajax/ajax.php:192
+msgid "All Categories Archive"
+msgstr "Archivo de todas las categorías"
+
+#: admin/ajax/ajax.php:188
+msgid "All Posts Archive"
+msgstr "Archivo de todas las entradas"
+
+#: admin/ajax/ajax.php:184
+msgid "All Posts"
+msgstr "Todas las entradas"
+
+#: admin/ajax/ajax.php:178
+msgid "Author Archive"
+msgstr "Archivo del autor"
+
+#: admin/ajax/ajax.php:174
+msgid "Date Archive"
+msgstr "Archivo por fechas"
+
+#: admin/ajax/ajax.php:170
+msgid "Front Page"
+msgstr "Página de inicio"
+
+#: admin/ajax/ajax.php:166
+msgid "Blog / Posts Page"
+msgstr "Página del blog / entradas"
+
+#: admin/ajax/ajax.php:162
+msgid "Search Page"
+msgstr "Página de búsqueda"
+
+#: admin/ajax/ajax.php:158
+msgid "404 Page"
+msgstr "Página 404"
+
+#: admin/ajax/ajax.php:152
+msgid "All Archives"
+msgstr "Todos los archivos"
+
+#: admin/ajax/ajax.php:148
+msgid "All Singulars"
+msgstr "Todas las páginas individuales"
+
+#: admin/ajax/ajax.php:144
+msgid "Entire Website"
+msgstr "Toda la web"
+
+#: admin/ajax/ajax.php:41
+msgid "Guest"
+msgstr "Invitado"
+
+#: includes/class.helpers.php:399
+msgid "Google analytics tracking code will be added to all pages before the &lt;/head&gt; tag. Please remember to set the Tracking ID before activating the snippet."
+msgstr "El código de seguimiento de Google Analytics se añadirá a todas las páginas antes de & lt; / head & gt; etiqueta. Recuerde establecer el ID de seguimiento antes de activar el fragmento de código."
+
+#: includes/class.helpers.php:394
+msgid "Simple universal snippet: Google analytics tracking"
+msgstr "Fragmento de código universal simple: seguimiento de Google Analytics"
+
+#: includes/class.helpers.php:411
+msgid "This ordinary maintenance text. With this snippet, you can fill your pages with meaningless English text."
+msgstr "Este texto de mantenimiento ordinario. Con este fragmento de código, puedes llenar tus páginas con texto en inglés sin sentido."
+
+#: includes/class.helpers.php:406
+msgid "Simple text snippet: What is Lorem Ipsum?"
+msgstr "Texto simple de fragmento de código: ¿Qué es Lorem Ipsum?"
+
+#: includes/class.helpers.php:423
+msgid "Emojis are little icons used to express ideas or emotions. While these icons are fun and all, are they really necessary for your WordPress site? This snippet to disable emojis on your site to make it faster."
+msgstr "Los emojis son pequeños iconos que se utilizan para expresar ideas o emociones. Si bien estos iconos son divertidos, ¿son realmente necesarios para tu web WordPress? Este fragmento de código es para desactivar emojis en tu sitio y lo hace más rápido."
+
+#: includes/class.helpers.php:418
+msgid "Simple php snippet: Disable emojis"
+msgstr " Fragmento php simple: Desactivar emojis "
+
+#: libs/factory/pages/pages.php:73
+msgid "You are trying to call this earlier than the plugin menu will be registered."
+msgstr "Estás intentando llamar a esto antes de que se registre el menú del plugin."
+
+#: libs/factory/core/includes/class-factory-requirements.php:290
+msgid "Plugin %s is already activated, you are trying to activate it again."
+msgstr "El plugin %s ya había sido activado, estás intentando activarlo de nuevo."
+
+#: libs/factory/core/includes/class-check-compatibility.php:90
+#: libs/factory/core/includes/class-factory-requirements.php:283
+msgid "You need to update WordPress to %s or higher!"
+msgstr "¡Tienes que actualizar WordPress a la versión %s o superior!"
+
+#: libs/factory/core/includes/class-check-compatibility.php:85
+#: libs/factory/core/includes/class-factory-requirements.php:276
+msgid "You need to update the PHP version to %s or higher!"
+msgstr "¡Tienes que actualizar PHP a la versión %s o superior!"
+
+#: libs/factory/core/includes/class-check-compatibility.php:79
+#: libs/factory/core/includes/class-factory-requirements.php:246
+msgid "Possible reasons:"
+msgstr "Posibles razones:"
+
+#: libs/factory/core/includes/class-check-compatibility.php:78
+#: libs/factory/core/includes/class-factory-requirements.php:245
+msgid "The %s plugin has stopped."
+msgstr "El plugin %s se ha detenido."
+
+#: libs/factory/core/includes/class-check-compatibility.php:76
+#: libs/factory/core/includes/class-factory-requirements.php:243
+msgid "warning"
+msgstr "advertencia"
+
+#: libs/factory/core/includes/class-factory-plugin-abstract.php:582
+msgid "You cannot use this feature on the frontend."
+msgstr "No puedes usar esta característica en la portada."
+
+#. Plugin Name of the plugin
+msgid "Woody code snippets (PHP snippets | Insert PHP)"
+msgstr "Woody code snippets (PHP snippets | Insert PHP)"
+
+#: libs/factory/taxonomies/taxonomy.class.php:372
+msgid "%1$s"
+msgstr "%1$s"
+
+#: libs/factory/taxonomies/taxonomy.class.php:371
+msgid "No %1$s found."
+msgstr "No se ha encontrado %1$s."
+
+#: libs/factory/taxonomies/taxonomy.class.php:370
+msgid "Choose from the most used %1$s"
+msgstr "Elige entre las %1$s más utilizadas"
+
+#: libs/factory/taxonomies/taxonomy.class.php:369
+msgid "Add or remove %1$s"
+msgstr "Añadir o eliminar %1$s"
+
+#: libs/factory/taxonomies/taxonomy.class.php:368
+msgid "Separate %1$s with commas"
+msgstr "Separa %1$s con comas"
+
+#: libs/factory/taxonomies/taxonomy.class.php:367
+msgid "New %1$s Name"
+msgstr "Nuevo nombre de %1$s"
+
+#: libs/factory/taxonomies/taxonomy.class.php:366
+msgid "Add New %1$s"
+msgstr "Añadir nuevo %1$s"
+
+#: libs/factory/taxonomies/taxonomy.class.php:365
+msgid "Update %1$s"
+msgstr "Actualizar %1$s"
+
+#: libs/factory/taxonomies/taxonomy.class.php:363
+msgid "Parent %1$s:"
+msgstr "Superior %1$s:"
+
+#: libs/factory/taxonomies/taxonomy.class.php:360
+msgid "Popular %1$s"
+msgstr "Popular %1$s"
+
+#: admin/types/snippets-taxonomy.php:35
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: admin/pages/import.php:28
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: admin/pages/snippet-library.php:131
+msgid "My snippets"
+msgstr "Mis fragmentos de código"
+
+#: admin/includes/class.snippets.viewtable.php:20
+#: admin/types/snippets-taxonomy.php:34
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: admin/includes/class.notices.php:101
+msgid "The snippet has been deactivated due to an error on line %d:"
+msgstr "El fragmento de código ha sido desactivado debido a un error en la línea %d:"
+
+#: admin/pages/settings.php:74
+msgid "When creating a new snippet or updating an old one, make the code snippets active by default."
+msgstr "Al crear un nuevo fragmento de código o actualizar uno, los fragmentos de código quedan activados por defecto. "
+
+#: libs/factory/taxonomies/taxonomy.class.php:362
+#: libs/factory/types/type.class.php:393
+msgid "Parent %1$s"
+msgstr "Superior %1$s"
+
+#: libs/factory/types/type.class.php:392
+msgid "No %1$s found in trash"
+msgstr "No se han encontrado %1$s en la papelera"
+
+#: libs/factory/types/type.class.php:391
+msgid "No %1$s found"
+msgstr "No se encontraron %1$s"
+
+#: libs/factory/taxonomies/taxonomy.class.php:359
+#: libs/factory/types/type.class.php:390
+msgid "Search %1$s"
+msgstr "Buscar %1$s"
+
+#: libs/factory/types/type.class.php:389
+msgid "View %1$s"
+msgstr "Ver %1$s"
+
+#: libs/factory/types/type.class.php:387
+msgid "New %1$s"
+msgstr "Nuevo %1$s"
+
+#: libs/factory/taxonomies/taxonomy.class.php:364
+#: libs/factory/types/type.class.php:386
+msgid "Edit %1$s"
+msgstr "Editar %1$s"
+
+#: libs/factory/types/type.class.php:383
+msgid "Add %1$s"
+msgstr "Añadir %1$s"
+
+#: libs/factory/taxonomies/taxonomy.class.php:361
+#: libs/factory/types/type.class.php:382
+msgid "All %1$s"
+msgstr "Todos %1$s"
+
+#: admin/metaboxes/view-options.php:167
+msgid "Page"
+msgstr "Página"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:131
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:132
+msgid "Update"
+msgstr "Actualizar "
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:123
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:124
+msgid "Submit for Review"
+msgstr "Enviar a revisión"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:117
+msgid "Create"
+msgstr "Crear"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:116
+msgid "Publish"
+msgstr "Publicar"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:110
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:111
+msgid "Schedule"
+msgstr "Programar"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:93
+msgid "Move to Trash"
+msgstr "Enviar a la papelera"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:91
+msgid "Delete Permanently"
+msgstr "Borrar permanentemente"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:65
+msgid "Schedule for: <b>%1$s</b>"
+msgstr "Programar para: <b>%1$s</b>"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:63
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:71
+msgid "Created <b>immediately</b>"
+msgstr "Creado  <b>inmediatamente</b> "
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:61
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:67
+msgid "Created on: <b>%1$s</b>"
+msgstr "Creado el: <b>%1$s</b>"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:59
+msgid "Scheduled for: <b>%1$s</b>"
+msgstr "Programada para: <b>%1$s</b>"
+
+#. translators: Publish box date format, see http://php.net/date
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:56
+#: libs/factory/types/type.class.php:451
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: admin/metaboxes/base-options.php:112 admin/metaboxes/base-options.php:281
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:51
+msgid "Save"
+msgstr "Guardar"
+
+#: libs/factory/metaboxes/includes/publish-metabox.class.php:30
+msgid "Control"
+msgstr "Control"
+
+#: libs/factory/forms/controls/pattern.php:117
+msgid "Changing the color may takes a minute or more. Please be patient."
+msgstr "Cambiar el color puede tardar un minuto o más. Por favor, sé paciente."
+
+#: libs/factory/forms/controls/pattern.php:114
+msgid "Select color:"
+msgstr "Seleccionar el color:"
+
+#: libs/factory/forms/controls/pattern.php:107
+msgid "re-color"
+msgstr "volver a colorear"
+
+#: libs/factory/forms/controls/pattern.php:105
+msgid "Change color"
+msgstr "Cambiar el color"
+
+#: libs/factory/forms/controls/paddings-editor.php:70
+msgid "Select a side and move the slider to set up:"
+msgstr "Selecciona un lado y mueve el control deslizante para configurarlo:"
+
+#: libs/factory/forms/controls/holders/more-link.php:56
+msgid "hide extra options"
+msgstr "ocultar las opciones adicionales"
+
+#: libs/factory/forms/controls/gradient.php:70
+msgid "horizontal"
+msgstr "horizontal"
+
+#: libs/factory/forms/controls/gradient.php:69
+msgid "vertical"
+msgstr "vertical"
+
+#: libs/factory/forms/controls/google-font.php:136
+msgid "Unexpected error. The list of Google Fonts are empty."
+msgstr "Error inesperado. La lista de fuentes de Google está vacía."
+
+#: libs/factory/forms/controls/google-font.php:126
+msgid "Invalide response from the Google Fonts API."
+msgstr "Respuesta no válida desde la API de Google Fonts."
+
+#: libs/factory/forms/controls/google-font.php:118
+msgid "Unable to retrieve the list of Google Fonts."
+msgstr "No se ha podido recuperar la lista de fuentes de Google."
+
+#: libs/factory/forms/controls/google-font.php:68
+msgid "Google Fonts:"
+msgstr "Google Fonts:"
+
+#: libs/factory/forms/controls/google-font.php:57
+msgid "Standard:"
+msgstr "Estándar:"
+
+#: libs/factory/forms/controls/font.php:190
+msgid "Monospaced:"
+msgstr "Monoespacio:"
+
+#: libs/factory/forms/controls/font.php:134
+msgid "Serif:"
+msgstr "Serif:"
+
+#: libs/factory/forms/controls/font.php:83
+msgid "Sans Serif:"
+msgstr "Sans Serif:"
+
+#: libs/factory/forms/controls/font.php:80
+#: libs/factory/forms/controls/google-font.php:52
+msgid "(use default website font)"
+msgstr "(usar la fuente por defecto de la web)"
+
+#: includes/controls/class.dropdown.php:49
+#: libs/factory/forms/controls/dropdown.php:271
+#: libs/factory/forms/controls/dropdown.php:352
+msgid "- empty -"
+msgstr "- vacío -"
+
+#: libs/factory/forms/controls/dropdown.php:126
+#: libs/factory/forms/controls/list.php:96
+#: libs/factory/forms/controls/list.php:139
+msgid "The list is empty."
+msgstr "La lista está vacía."
+
+#: libs/factory/forms/controls/checkbox.php:136
+msgid "Off"
+msgstr "Apagado"
+
+#: libs/factory/forms/controls/checkbox.php:133
+msgid "On"
+msgstr "Encendido"
+
+#: libs/factory/core/includes/functions.php:152
+msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr "%1$s ha quedado <strong>obsoleto</strong> desde la versión %2$s y no hay alternativas disponibles."
+
+#: libs/factory/core/includes/functions.php:150
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr "%1$s ha quedado <strong>obsoleto</strong> desde la versión %2$s. Utiliza %3$s en su lugar."
+
+#: admin/types/snippets-post-types.php:89
+msgid "Parent snippet"
+msgstr "Fragmento de código principal"
+
+#: admin/types/snippets-post-types.php:88
+msgid "Snippt is not found in trash"
+msgstr "Fragmento de código no encontrado en la papelera"
+
+#: admin/types/snippets-post-types.php:87
+msgid "Snippet is not found"
+msgstr "Fragmento de código no encontrado"
+
+#: admin/types/snippets-post-types.php:86
+msgid "Search snippets"
+msgstr "Buscar fragmentos de código"
+
+#: admin/types/snippets-post-types.php:85
+msgid "View snippet"
+msgstr "Ver fragmento de código"
+
+#: admin/types/snippets-post-types.php:84 libs/factory/types/type.class.php:388
+msgid "View"
+msgstr "Ver"
+
+#: admin/types/snippets-post-types.php:83
+msgid "New snippet"
+msgstr "Nuevo fragmento de código"
+
+#: admin/types/snippets-post-types.php:82
+msgid "Edit snippet"
+msgstr "Editar fragmento de código"
+
+#: admin/includes/class.common.snippet.php:283
+#: admin/types/snippets-post-types.php:81 libs/factory/types/type.class.php:385
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/types/snippets-post-types.php:80
+#: libs/factory/forms/controls/multiple-textbox.php:89
+#: libs/factory/types/type.class.php:384
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: admin/pages/new-item.php:30 admin/types/snippets-post-types.php:79
+msgid "+ Add snippet"
+msgstr "+Añadir fragmento "
+
+#: admin/types/snippets-post-types.php:78
+msgid "Snippets"
+msgstr "Fragmentos "
+
+#: admin/pages/settings.php:246
+msgid "Save settings"
+msgstr "Guardar los ajustes"
+
+#: admin/pages/settings.php:236
+msgid "The settings have been updated successfully!"
+msgstr "¡Los ajustes se han actualizado correctamente!"
+
+#: admin/pages/settings.php:189
+msgid "Highlight Selection Matches"
+msgstr "Resaltar las coincidencias con la selección"
+
+#: admin/pages/settings.php:180
+msgid "Auto Close Brackets"
+msgstr "Cerrar automáticamente los corchetes"
+
+#: admin/pages/settings.php:171
+msgid "Line Numbers"
+msgstr "Números de línea"
+
+#: admin/pages/settings.php:162
+msgid "Wrap Lines"
+msgstr "Envolver las líneas"
+
+#: admin/pages/settings.php:153
+msgid "Indent Unit"
+msgstr "Unidad de sangría"
+
+#: admin/pages/settings.php:144
+msgid "Tab Size"
+msgstr "Tamaño de la tabulación"
+
+#: admin/pages/settings.php:135
+msgid "Indent With Tabs"
+msgstr "Sangría con tabulaciones"
+
+#: admin/pages/settings.php:125
+msgid "Code style"
+msgstr "Estilo de código "
+
+#: admin/pages/settings.php:72
+msgid "Activate by Default"
+msgstr "Activado por defecto"
+
+#: admin/pages/settings.php:28 admin/pages/settings.php:230
+msgid "Settings"
+msgstr "Ajustes "
+
+#: admin/metaboxes/base-options.php:795
+msgid "If you prefer, you can close this page and discard the changes you just made. No changes will be made to this site."
+msgstr "Si lo prefieres, puedes cerrar esta página y descartar los cambios que has hecho. No se hará ningún cambio en este sitio."
+
+#: admin/metaboxes/base-options.php:794
+msgid "Please use the back button in your browser to return to the previous page and try to fix the code error."
+msgstr "Por favor, usa el botón para volver atrás de tu navegador para regresar a la página anterior e intenta corregir el error del código."
+
+#: admin/metaboxes/base-options.php:793
+msgid "The previous version of the snippet is unchanged, and the rest of this site should be functioning normally as before."
+msgstr "La versión anterior del fragmento no ha cambiado y el resto del sitio debería funcionar normalmente como antes."
+
+#: admin/metaboxes/base-options.php:791
+msgid "The code snippet you are trying to save produced a fatal error on line %d:"
+msgstr "El fragmento que estás intentando guardar ha producido un error fatal en la línea %d:"
+
+#: admin/metaboxes/base-options.php:790
+msgid "Don't Panic"
+msgstr "Que no cunda el pánico"
+
+#: admin/metaboxes/base-options.php:700
+msgid "You can write a short note so that you can always remember why this code or your colleague was able to apply this code in his works."
+msgstr "Puedes escribir una nota corta para que siempre puedas recordar el por qué de este código o tu colega lo pudo aplicar en sus trabajos."
+
+#: admin/metaboxes/base-options.php:599
+msgid "If you select the \"%s\" option, after activating the widget, the php code will be launched on all pages of your site. Another option works only where you have set a shortcode snippet (widgets, post)."
+msgstr "Si seleccionas la opción «%s» después de activar el widget, el código php se lanzará en todas las páginas de tu sitio. La otra opción funciona solo cuando has configurado un shortcode para fragmento de código (widgets, entradas)."
+
+#: admin/metaboxes/base-options.php:598
+msgid "Where to execute the code?"
+msgstr "¿Donde se ejecutará el código?"
+
+#: admin/metaboxes/base-options.php:554 admin/metaboxes/base-options.php:578
+msgid "Where there is a shortcode"
+msgstr "Donde hay un shortcode"
+
+#: admin/metaboxes/base-options.php:43
+msgid "Base options"
+msgstr "Opciones base."
+
+#: admin/includes/class.actions.snippet.php:112
+#: libs/factory/core/includes/components/class-install-component-button.php:425
+msgid "Deactivate"
+msgstr "Desactivar "
+
+#: admin/includes/class.actions.snippet.php:113
+#: libs/factory/core/includes/components/class-install-component-button.php:423
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/class.helpers.php:739
+msgid "Run everywhere"
+msgstr "Ejecutar en todas partes"
+
+#: admin/includes/class.snippets.viewtable.php:16
+msgid "Status"
+msgstr "Estado"
+
+#: admin/includes/class.snippets.viewtable.php:19
+msgid "Where use?"
+msgstr "¿Dónde usarlo?"
+
+#: admin/includes/class.snippets.table.php:212
+#: admin/includes/class.snippets.viewtable.php:18
+#: admin/metaboxes/base-options.php:699
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/includes/class.snippets.viewtable.php:17
+msgid "Snippet title"
+msgstr "Título del fragmento de código"
+
+#: admin/pages/new-item.php:54
+msgid "PHP snippet"
+msgstr "Fragmento PHP "
+
+#: admin/includes/class.notices.php:125
+msgid "If you have issues with the plugin new version or any suggestions, please contact us on <a href=\"%s\" target=\"_blank\">our forum</a>."
+msgstr "Si tienes problemas con la nueva versión del plugin o alguna sugerencia, contacta con nosotros en <a href=\"%s\" target=\"_blank\"> nuestro foro </a>."
+
+#: admin/includes/class.notices.php:123
+msgid "Download old version"
+msgstr "Descargar versión antigua"
+
+#: admin/includes/class.notices.php:122
+msgid "Create new php snippet"
+msgstr "Crear un nuevo fragmento php "
+
+#: admin/includes/class.notices.php:120
+msgid "We strongly recommend you to porting your php code to snippets and call them in your posts/pages and widgets using [wbcr_php_snippet id = \"000\"] shortcodes."
+msgstr "Te recomendamos encarecidamente que transfieras tu código php a fragmentos de código y los llames en tus entradas, páginas y widgets usando shortcodes [wbcr_php_snippet id = \"000\"]"
+
+#: admin/includes/class.notices.php:143
+msgid "Running in safe mode. This mode your snippets will not be started."
+msgstr "Funcionando en modo seguro. Tus fragmentos no se iniciarán."

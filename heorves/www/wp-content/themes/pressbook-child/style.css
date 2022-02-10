@@ -1,0 +1,304 @@
+/*
+ Theme Name:   pressbook Child
+ Theme URI:    http://example.com/pressbook-child/
+ Description:  pressbook Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     pressbook
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  pressbookchild
+*/
+
+
+
+.top-navbar {
+	background: linear-gradient(0deg, #166dd6 0%, #1257ab 100%);
+	color: #fff;
+}
+ 
+.top-menus {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	line-height: 1.6em;
+}
+ 
+.top-menus .menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+ 
+.top-menus li {
+	padding: .4rem .75rem;
+	border: 1px solid rgba(255, 255, 255, .25);
+	margin-bottom: 0;
+	margin-left: -1px;
+}
+ 
+@media screen and (min-width: 768px) {
+	.top-menus {
+		justify-content: flex-start;
+	}
+ 
+	.top-menus>nav {
+		flex-grow: 1;
+	}
+}
+ 
+.social-navigation a {
+	color: #fff;
+}
+ 
+.social-navigation a .svg-icon {
+	width: 1.55em;
+	height: 1.55em;
+	padding: .15em;
+	border: 1px solid transparent;
+	transition: .25s all;
+}
+ 
+.social-navigation a:hover .svg-icon,
+.social-navigation a:focus .svg-icon,
+.social-navigation a:active .svg-icon {
+	color: #166dd6;
+	background: #fff;
+	border-color: #fff;
+	border-radius: 50%;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .15);
+}
+ 
+@media screen and (min-width: 768px) {
+	.social-navigation {
+		flex-basis: 38%;
+	}
+ 
+	.social-navigation .menu {
+		justify-content: flex-start;
+	}
+}
+ 
+.top-navigation {
+	font-size: .8em;
+}
+ 
+.top-navigation a {
+	text-decoration: none;
+	color: #fff;
+	border-bottom: 2px solid transparent;
+	transition: .2s border-color;
+}
+ 
+.top-navigation a:hover,
+.top-navigation a:focus,
+.top-navigation a:active {
+	color: #fff;
+	border-color: #fff;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .15);
+}
+ 
+@media screen and (min-width: 768px) {
+	.top-navigation {
+		flex-basis: 62%;
+		text-align: right;
+	}
+ 
+	.top-navigation .menu {
+		justify-content: flex-end;
+	}
+}
+
+h1 {
+color : red;
+}
+
+#auteur {
+display: flex;
+flex-direction: row;	
+text-align: center;
+}
+
+#auteur a {
+text-decoration: none;	
+color : black;	
+}
+
+.auteur1 {
+background-color: white;
+display: flex;
+flex-direction: column;
+text-align: center;
+width: 22%;
+padding: 1% 0 5% 6%;
+}
+
+.auteur2 {
+background-color: white;
+display: flex;
+flex-direction: column;
+text-align: center;
+width: 22%;
+padding: 1% 0 5% 6%;
+}
+
+.auteur3 {
+background-color: white;
+display: flex;
+flex-direction: column;
+text-align: center;
+width: 22%;
+padding: 1% 0 5% 6%;
+}
+
+
+.top-navigation {
+	font-size: .8em;
+}
+
+.top-navigation a {
+	text-decoration: none;
+	color: #fff;
+	border-bottom: 2px solid transparent;
+	transition: .2s border-color;
+}
+
+.top-navigation a:hover,
+.top-navigation a:focus,
+.top-navigation a:active {
+	color: #fff;
+	border-color: #fff;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .15);
+}
+
+@media screen and (min-width: 481px) and (max-width: 767px) {
+
+h1 {
+text-align: center;
+}
+	
+#auteur {
+display: flex;
+flex-direction: column;	
+text-align: center;
+}
+.auteur1, .auteur2, .auteur3 {
+background-color: white;
+text-align: center;
+width: 100%;
+}		
+}
+
+@media screen and (max-width: 480px) {
+h1 {
+text-align: center;
+}
+
+#auteur {
+display: flex;
+flex-direction: column;	
+text-align: center;
+}
+	
+.auteur1, .auteur2, .auteur3 {
+background-color: white;
+text-align: center;
+width: 100%;
+}		
+	
+}
+
+.choix {
+display: flex;
+flex-direction: row;
+}
+
+.choix1, .choix2 {
+margin-left: 25%;	
+margin-top: 3%;
+}
+
+.choix a {
+text-decoration: none;	
+}
+
+#choixlivres a {
+text-decoration: none;	
+color : black;	
+}
+
+.choixClic {
+font-style : italic;
+}
+
+.bienvenue {
+text-align: center;
+margin-top: 5%;	
+}
+
+.banner {
+text-align: center;
+}
+
+.acces a {
+color : white;	
+border : solid 1px blue;	
+background-color : #135eb9;	
+text-decoration : none;	
+}
+
+.vingt {
+font-weight : bold;	
+}
+
+
+
+/* auteurs */
+
+.auteur1 {
+   color : red; 
+}
+
+
+#auteur {
+display: flex;
+flex-direction: row;	
+}
+
+.auteur1 {
+background-color: white;
+display: flex;
+flex-direction: column;
+text-align: center;
+width: 22%;
+padding: 1% 0 5% 6%;
+}
+
+.auteur2 {
+background-color: white;
+display: flex;
+flex-direction: column;
+text-align: center;
+width: 22%;
+padding: 1% 0 5% 6%;
+}
+
+.auteur3 {
+background-color: white;
+display: flex;
+flex-direction: column;
+text-align: center;
+width: 22%;
+padding: 1% 0 5% 6%;
+}
+
+*/
+
+ 

@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 3 June 2021 9h24
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.1
+WORDPRESS:	5.7.2
+PHP INFO:	7.4.15 | SAPI: fpm-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: [165] not allowed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+TABLES: total:18 | filtered:0 | create:18
+FILTERED: []
+SQL CREATED: 20210603_heorvesprixdelecture_ea08025219de477a8886_20210603092406_database.sql
+SQL FILE SIZE: 1.92MB (2014065)
+SQL FILE TIME: 2021-06-03 09:24:37
+SQL RUNTIME: 0.22 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home/heorvez/www
+ARCHIVE FILE: 20210603_heorvesprixdelecture_ea08025219de477a8886_20210603092406_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	142.87MB
+STATS:	Dirs 1,116 | Files 7,516
+SQL ADDED: 20210603_heorvesprixdelecture_ea08025219de477a8886_20210603092406_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 8632
+    [filename] => /home/heorvez/www/wp-content/backups-dup-lite/tmp/20210603_heorvesprixdelecture_ea08025219de477a8886_20210603092406_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 8631
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 55.91MB
+ARCHIVE RUNTIME: 25.27 sec.
+MEMORY STACK: 4MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip /home/heorvez/www/wp-content/backups-dup-lite/tmp/20210603_heorvesprixdelecture_ea08025219de477a8886_20210603092406_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.92MB
+INSTALLER FILE: 64.15KB
+ARCHIVE FILE: 57.3MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 8,632
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 8,631
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[5]
+TOTAL PROCESS RUNTIME: 27.78 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => 20210603_heorvesprixdelecture 3 June 2021 9h25
+
